@@ -10,3 +10,9 @@ This repository contains my coursework (in Python) from the Master's in Computer
 - Image denoising using Gibbs Sampling algorithm
 - Image denoising using Variational Inference algorithm
 - Image segmentation using Expectation-Maximisation algorithm
+
+3. Principles of Program Analysis
+- LLVM pass for Initialized Variable analysis
+- LLVM pass for Taint analysis
+- LLVM pass for Difference analysis with abstraction
+- LLVM pass for Interval analysis with pass sensitivity
